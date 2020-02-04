@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/newyear.iml" filepath="$PROJECT_DIR$/newyear.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiro/shiro.iml" filepath="$PROJECT_DIR$/shiro/shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/shirocontroll/shirocontroll.iml" filepath="$PROJECT_DIR$/shirocontroll/shirocontroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view/view.iml" filepath="$PROJECT_DIR$/view/view.iml" />
     </modules>
   </component>
 </project>

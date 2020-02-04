@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/form/pom.xml" />
         <option value="$PROJECT_DIR$/shirocontroll/pom.xml" />
+        <option value="$PROJECT_DIR$/view/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
