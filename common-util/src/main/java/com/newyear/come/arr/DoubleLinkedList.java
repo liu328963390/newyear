@@ -21,7 +21,7 @@ public class DoubleLinkedList {
         linked.list();
         //修改
         System.out.println("修改后.......");
-        HearoNode2 hear5 = new HearoNode2(4, "公孙胜", "入云龙");
+        HearoNode2 hear5 = new HearoNode2(1, "公孙胜", "入云龙");
         linked.updateHero(hear5);
         linked.list();
         //删除
