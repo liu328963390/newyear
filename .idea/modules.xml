@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/base-core/base-core.iml" filepath="$PROJECT_DIR$/base-core/base-core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/common-util/common-util.iml" filepath="$PROJECT_DIR$/common-util/common-util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/form/form.iml" filepath="$PROJECT_DIR$/form/form.iml" />
-      <module fileurl="file://$PROJECT_DIR$/newyear.iml" filepath="$PROJECT_DIR$/newyear.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shiro/shiro.iml" filepath="$PROJECT_DIR$/shiro/shiro.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shirocontroll/shirocontroll.iml" filepath="$PROJECT_DIR$/shirocontroll/shirocontroll.iml" />
-      <module fileurl="file://$PROJECT_DIR$/view/view.iml" filepath="$PROJECT_DIR$/view/view.iml" />
     </modules>
   </component>
 </project>
